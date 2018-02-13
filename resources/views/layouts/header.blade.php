@@ -15,7 +15,7 @@
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
-            <span style="font-family:'Helvetica Neue',Helvetica,Arial,sans-serif; " >ERP DOCS</span>
+            <span style="font-family:'Helvetica Neue',Helvetica,Arial,sans-serif; " >STANDARD OPERATING PROCEDURE</span>
         </a>
         <div class="navbar-custom-menu">
             <ul class="nav navbar-nav">

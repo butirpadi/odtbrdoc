@@ -7,7 +7,7 @@
 
             @foreach($sidemenu as $dt )
                 @if(count($dt->childmenu) > 0)
-                    <li class="treeview {{Request::is($dt->class_request) ? 'active':''}}" >
+                    <li class="treeview " >
                         <a href="{{$dt->href}}">
                             <i class="{{$dt->icon}}"></i>
                             <span>{{$dt->title}}</span>

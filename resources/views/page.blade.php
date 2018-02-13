@@ -19,6 +19,10 @@
             </h3>
         </div>
         <div class="box-body" >
+            <span>
+                {{$data->desc}}
+                {!!$data->desc!=''?'<br/><br/>':''!!}
+            </span> 
             <div class="embed-responsive embed-responsive-16by9">
                 {!!$data->youtube_url!!}
             </div>
